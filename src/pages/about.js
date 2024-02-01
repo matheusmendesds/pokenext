@@ -8,8 +8,7 @@ export default function About() {
         <h1>Sobre o projeto
         </h1>
         <p>Projeto criado durante aulas sobre Next.js do Canal de Youtube Hora de Codar.</p>
-        <Image
-        src="/images/charizard.png" width="300" height="300" alt='Charizard'/>
+        <Image src="/images/charizard.png" width="300" height="300" alt="Charizard"/>
         </div>
     )
 }
